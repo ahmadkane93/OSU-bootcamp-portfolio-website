@@ -1,5 +1,5 @@
 # <header>Ahmad Kane Portfolio Website</header>
-  <img src=./assets/images/intro.jpg/>
+  <img src=/assets/images/intro.jpg/>
 <br>
 <br>
 <br>
