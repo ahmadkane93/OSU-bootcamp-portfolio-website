@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-.Background {
+#Background {
 background-image: url("./Assets/images/pexels-pixabay-270404.jpg");
 background-repeat: no-repeat;
 background-size: cover;
