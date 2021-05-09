@@ -1,5 +1,5 @@
 # <header>Ahmad Kane Portfolio Website</header>
-  <img src=./assets/images/read-me-cover.jpg/>
+  <img src=./assets/images/intro.jpg/>
 <br>
 <br>
 <br>
@@ -22,7 +22,10 @@ Click the portfolio link.
 Check out each image on container to see the hyperlink attached.
 <br>
 <br>
-<img src="./assets/images/usage-clip.jpg"/>
+<img src="./assets/images/github.jpg"/>
+<img src=./assets/images/interests.jpg/>
+<img src=./assets/images/facebook.jpg/>
+<img src=./assets/images/linkedin.jpg/>
 <br>
 <br>
 <br>
