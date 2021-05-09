@@ -30,7 +30,7 @@ Click onto each image in container to see the hyperlink attached.
 <br>
 <br>
 <h2>Credit</h2>
-W3 Schools
+W3 Schools & 
 MOZ Docs
 <br>
 <br>
