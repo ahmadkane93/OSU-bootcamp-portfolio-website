@@ -22,10 +22,10 @@ Click the portfolio link.
 Check out each image on container to see the hyperlink attached.
 <br>
 <br>
-<img src="./assets/images/github.jpg"/>
-<img src=./assets/images/interests.jpg/>
-<img src=./assets/images/facebook.jpg/>
-<img src=./assets/images/linkedin.jpg/>
+<img src="./Assets/images/github.jpg"/>
+<img src=./Assets/images/interests.jpg/>
+<img src=./Assets/images/facebook.jpg/>
+<img src=./Assets/images/linkedin.jpg/>
 <br>
 <br>
 <br>
