@@ -18,8 +18,8 @@ https://github.com/ahmadkane93/portfoliohw2
 <br>
 <br>
 <h2> Usage </h2>
-Click the portfolio link.
-Check out each image on container to see the hyperlink attached.
+Scroll throught the page.
+Click onto each image in container to see the hyperlink attached.
 <br>
 <br>
 <img src="./Assets/images/github.jpg"/>
